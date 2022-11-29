@@ -1,0 +1,147 @@
+﻿date,home,away,hw_prob,aw_prob,t_prob,h_score,a_score,result,Sum
+8/5/22,Crystal Palace,Arsenal,0.3159,0.4205,0.2636,0,2,A,1
+8/6/22,AFC Bournemouth,Aston Villa,0.2719,0.4687,0.2594,2,0,H,1
+8/6/22,Everton,Chelsea,0.1763,0.6092,0.2145,0,1,A,1
+8/6/22,Fulham,Liverpool,0.0926,0.7466,0.1607,2,2,D,0.9999
+8/6/22,Leeds United,Wolverhampton,0.3941,0.3456,0.2604,2,1,H,1.0001
+8/6/22,Newcastle,Nottingham Forest,0.5401,0.2045,0.2554,2,0,H,1
+8/6/22,Tottenham Hotspur,Southampton,0.7059,0.1182,0.1758,4,1,H,0.9999
+8/7/22,Leicester City,Brentford,0.4741,0.28,0.2458,2,2,D,0.9999
+8/7/22,Manchester United,Brighton and Hove Albion,0.4658,0.2826,0.2517,1,2,A,1.0001
+8/7/22,West Ham United,Manchester City,0.1317,0.6905,0.1778,0,2,A,1
+8/13/22,Arsenal,Leicester City,0.5653,0.2079,0.2268,4,2,H,1
+8/13/22,Aston Villa,Everton,0.5392,0.2176,0.2431,2,1,H,0.9999
+8/13/22,Brentford,Manchester United,0.3597,0.3904,0.2499,4,0,H,1
+8/13/22,Brighton and Hove Albion,Newcastle,0.4888,0.2519,0.2593,0,0,D,1
+8/13/22,Manchester City,AFC Bournemouth,0.8742,0.0294,0.0964,4,0,H,1
+8/13/22,Southampton,Leeds United,0.4374,0.3176,0.245,2,2,D,1
+8/13/22,Wolverhampton,Fulham,0.5084,0.2329,0.2587,0,0,D,1
+8/14/22,Chelsea,Tottenham Hotspur,0.4919,0.2694,0.2387,2,2,D,1
+8/14/22,Nottingham Forest,West Ham United,0.2976,0.437,0.2654,1,0,H,1
+8/15/22,Liverpool,Crystal Palace,0.7359,0.0925,0.1716,1,1,D,1
+8/20/22,AFC Bournemouth,Arsenal,0.1899,0.5812,0.2289,0,3,A,1
+8/20/22,Crystal Palace,Aston Villa,0.3844,0.3461,0.2696,3,1,H,1.0001
+8/20/22,Everton,Nottingham Forest,0.5138,0.2311,0.2551,1,1,D,1
+8/20/22,Fulham,Brentford,0.3383,0.3951,0.2666,3,2,H,1
+8/20/22,Leicester City,Southampton,0.5274,0.2426,0.23,1,2,A,1
+8/20/22,Tottenham Hotspur,Wolverhampton,0.6513,0.1446,0.2041,1,0,H,1
+8/21/22,Leeds United,Chelsea,0.1707,0.6234,0.206,3,0,H,1.0001
+8/21/22,Newcastle,Manchester City,0.12,0.6966,0.1834,3,3,D,1
+8/21/22,West Ham United,Brighton and Hove Albion,0.3639,0.3697,0.2663,0,2,A,0.9999
+8/22/22,Manchester United,Liverpool,0.2159,0.5746,0.2094,2,1,H,0.9999
+8/27/22,Arsenal,Fulham,0.6924,0.1164,0.1912,2,1,H,1
+8/27/22,Brentford,Everton,0.4908,0.2652,0.244,1,1,D,1
+8/27/22,Brighton and Hove Albion,Leeds United,0.5646,0.2017,0.2337,1,0,H,1
+8/27/22,Chelsea,Leicester City,0.6671,0.137,0.1959,2,1,H,1
+8/27/22,Liverpool,AFC Bournemouth,0.8292,0.0477,0.1231,9,0,H,1
+8/27/22,Manchester City,Crystal Palace,0.7715,0.0789,0.1496,4,2,H,1
+8/27/22,Southampton,Manchester United,0.3121,0.4513,0.2366,0,1,A,1
+8/28/22,Aston Villa,West Ham United,0.4656,0.2832,0.2512,0,1,A,1
+8/28/22,Nottingham Forest,Tottenham Hotspur,0.1604,0.6326,0.207,0,2,A,1
+8/28/22,Wolverhampton,Newcastle,0.3969,0.3303,0.2728,1,1,D,1
+8/30/22,Crystal Palace,Brentford,0.4699,0.2805,0.2496,1,1,D,1
+8/30/22,Fulham,Brighton and Hove Albion,0.2772,0.4575,0.2654,2,1,H,1.0001
+8/30/22,Leeds United,Everton,0.4495,0.3009,0.2496,1,1,D,1
+8/30/22,Southampton,Chelsea,0.2014,0.5805,0.2181,2,1,H,1
+8/31/22,AFC Bournemouth,Wolverhampton,0.316,0.4053,0.2786,0,0,D,0.9999
+8/31/22,Arsenal,Aston Villa,0.6006,0.1801,0.2193,2,1,H,1
+8/31/22,Liverpool,Newcastle,0.7187,0.1121,0.1691,2,1,H,0.9999
+8/31/22,Manchester City,Nottingham Forest,0.8898,0.0256,0.0846,6,0,H,1
+8/31/22,West Ham United,Tottenham Hotspur,0.2514,0.5108,0.2378,1,1,D,1
+9/1/22,Leicester City,Manchester United,0.3765,0.3826,0.241,0,1,A,1.0001
+9/3/22,Aston Villa,Manchester City,0.1268,0.7024,0.1708,1,1,D,1
+9/3/22,Brentford,Leeds United,0.4907,0.2698,0.2395,5,2,H,1
+9/3/22,Chelsea,West Ham United,0.6172,0.1607,0.222,2,1,H,0.9999
+9/3/22,Everton,Liverpool,0.1312,0.6942,0.1746,0,0,D,1
+9/3/22,Newcastle,Crystal Palace,0.4491,0.2884,0.2626,0,0,D,1.0001
+9/3/22,Nottingham Forest,AFC Bournemouth,0.451,0.27,0.279,2,3,A,1
+9/3/22,Tottenham Hotspur,Fulham,0.7058,0.1113,0.1829,2,1,H,1
+9/3/22,Wolverhampton,Southampton,0.4699,0.2715,0.2586,1,0,H,1
+9/4/22,Brighton and Hove Albion,Leicester City,0.508,0.2404,0.2516,5,2,H,1
+9/4/22,Manchester United,Arsenal,0.3463,0.4107,0.243,3,1,H,1
+9/16/22,Aston Villa,Southampton,0.4926,0.2594,0.248,1,0,H,1
+9/16/22,Nottingham Forest,Fulham,0.3732,0.3563,0.2704,2,3,A,0.9999
+9/17/22,Newcastle,AFC Bournemouth,0.6148,0.1585,0.2267,1,1,D,1
+9/17/22,Tottenham Hotspur,Leicester City,0.6422,0.1584,0.1994,6,2,H,1
+9/17/22,Wolverhampton,Manchester City,0.0998,0.7353,0.1649,0,3,A,1
+9/18/22,Brentford,Arsenal,0.284,0.4854,0.2306,0,3,A,1
+9/18/22,Everton,West Ham United,0.3723,0.3589,0.2688,1,0,H,1
+10/1/22,AFC Bournemouth,Brentford,0.3013,0.4462,0.2525,0,0,D,1
+10/1/22,Arsenal,Tottenham Hotspur,0.4369,0.3247,0.2384,3,1,H,1
+10/1/22,Crystal Palace,Chelsea,0.2695,0.4747,0.2558,1,2,A,1
+10/1/22,Fulham,Newcastle,0.3242,0.417,0.2588,1,4,A,1
+10/1/22,Liverpool,Brighton and Hove Albion,0.6412,0.1608,0.1981,3,3,D,1.0001
+10/1/22,Southampton,Everton,0.4363,0.3002,0.2635,1,2,A,1
+10/1/22,West Ham United,Wolverhampton,0.4722,0.2508,0.277,2,0,H,1
+10/2/22,Leeds United,Aston Villa,0.3857,0.3572,0.2571,0,0,D,1
+10/2/22,Manchester City,Manchester United,0.7386,0.1028,0.1586,6,3,H,1
+10/3/22,Leicester City,Nottingham Forest,0.5886,0.1913,0.2201,4,0,H,1
+10/8/22,AFC Bournemouth,Leicester City,0.2959,0.4517,0.2524,2,1,H,1
+10/8/22,Brighton and Hove Albion,Tottenham Hotspur,0.3694,0.3843,0.2463,0,1,A,1
+10/8/22,Chelsea,Wolverhampton,0.6523,0.1272,0.2205,3,0,H,1
+10/8/22,Manchester City,Southampton,0.8709,0.0386,0.0905,4,0,H,1
+10/8/22,Newcastle,Brentford,0.5096,0.2506,0.2398,5,1,H,1
+10/9/22,Arsenal,Liverpool,0.341,0.4332,0.2258,3,2,H,1
+10/9/22,Crystal Palace,Leeds United,0.4808,0.2671,0.252,2,1,H,0.9999
+10/9/22,Everton,Manchester United,0.2841,0.4771,0.2388,1,2,A,1
+10/9/22,West Ham United,Fulham,0.5539,0.2037,0.2424,3,1,H,1
+10/10/22,Nottingham Forest,Aston Villa,0.2744,0.4624,0.2632,1,1,D,1
+10/14/22,Brentford,Brighton and Hove Albion,0.3206,0.4308,0.2487,2,0,H,1.0001
+10/15/22,Fulham,AFC Bournemouth,0.4707,0.2668,0.2626,2,2,D,1.0001
+10/15/22,Leicester City,Crystal Palace,0.4408,0.3105,0.2487,0,0,D,1
+10/15/22,Tottenham Hotspur,Everton,0.6754,0.1308,0.1938,2,0,H,1
+10/15/22,Wolverhampton,Nottingham Forest,0.5482,0.1932,0.2586,1,0,H,1
+10/16/22,Aston Villa,Chelsea,0.2448,0.4987,0.2565,0,2,A,1
+10/16/22,Leeds United,Arsenal,0.2071,0.5757,0.2172,0,1,A,1
+10/16/22,Liverpool,Manchester City,0.3363,0.4505,0.2132,1,0,H,1
+10/16/22,Manchester United,Newcastle,0.4836,0.2836,0.2328,0,0,D,1
+10/16/22,Southampton,West Ham United,0.3582,0.3777,0.2641,1,1,D,1
+10/18/22,Brighton and Hove Albion,Nottingham Forest,0.6702,0.1262,0.2036,0,0,D,1
+10/18/22,Crystal Palace,Wolverhampton,0.4543,0.2621,0.2835,2,1,H,0.9999
+10/19/22,AFC Bournemouth,Southampton,0.3605,0.3702,0.2693,0,1,A,1
+10/19/22,Brentford,Chelsea,0.2261,0.5476,0.2263,0,0,D,1
+10/19/22,Liverpool,West Ham United,0.717,0.1118,0.1712,1,0,H,1
+10/19/22,Manchester United,Tottenham Hotspur,0.3802,0.384,0.2358,2,0,H,1
+10/19/22,Newcastle,Everton,0.5759,0.1883,0.2358,1,0,H,1
+10/20/22,Fulham,Aston Villa,0.3091,0.4309,0.2599,3,0,H,0.9999
+10/20/22,Leicester City,Leeds United,0.4751,0.2849,0.24,2,0,H,1
+10/22/22,Chelsea,Manchester United,0.5024,0.2598,0.2378,1,1,D,1
+10/22/22,Everton,Crystal Palace,0.3824,0.3383,0.2793,3,0,H,1
+10/22/22,Manchester City,Brighton and Hove Albion,0.7326,0.1015,0.1658,3,1,H,0.9999
+10/22/22,Nottingham Forest,Liverpool,0.0873,0.7695,0.1432,1,0,H,1
+10/23/22,Aston Villa,Brentford,0.4572,0.2851,0.2577,4,0,H,1
+10/23/22,Leeds United,Fulham,0.4985,0.2608,0.2407,2,3,A,1
+10/23/22,Southampton,Arsenal,0.1928,0.5867,0.2205,1,1,D,1
+10/23/22,Tottenham Hotspur,Newcastle,0.5177,0.2438,0.2385,1,2,A,1
+10/23/22,Wolverhampton,Leicester City,0.4007,0.3309,0.2684,0,4,A,1
+10/24/22,West Ham United,AFC Bournemouth,0.6016,0.1586,0.2398,2,0,H,1
+10/29/22,AFC Bournemouth,Tottenham Hotspur,0.1727,0.6121,0.2152,2,3,A,1
+10/29/22,Brentford,Wolverhampton,0.4563,0.2859,0.2578,1,1,D,1
+10/29/22,Brighton and Hove Albion,Chelsea,0.3182,0.4208,0.2609,4,1,H,0.9999
+10/29/22,Crystal Palace,Southampton,0.4787,0.2596,0.2617,1,0,H,1
+10/29/22,Fulham,Everton,0.4024,0.3402,0.2574,0,0,D,1
+10/29/22,Leicester City,Manchester City,0.1117,0.7293,0.159,0,1,A,1
+10/29/22,Liverpool,Leeds United,0.7737,0.087,0.1393,1,2,A,1
+10/29/22,Newcastle,Aston Villa,0.5095,0.2358,0.2547,4,0,H,1
+10/30/22,Arsenal,Nottingham Forest,0.7537,0.0771,0.1693,5,0,H,1.0001
+10/30/22,Manchester United,West Ham United,0.5745,0.1945,0.231,1,0,H,1
+11/5/22,Everton,Leicester City,0.3789,0.3556,0.2655,0,2,A,1
+11/5/22,Leeds United,AFC Bournemouth,0.5422,0.2157,0.2421,4,3,H,1
+11/5/22,Manchester City,Fulham,0.8706,0.0363,0.0931,2,1,H,1
+11/5/22,Nottingham Forest,Brentford,0.3106,0.4365,0.2529,2,2,D,1
+11/5/22,Wolverhampton,Brighton and Hove Albion,0.2756,0.4598,0.2646,2,3,A,1
+11/6/22,Aston Villa,Manchester United,0.2687,0.4891,0.2422,3,1,H,1
+11/6/22,Chelsea,Arsenal,0.4344,0.3121,0.2535,0,1,A,1
+11/6/22,Southampton,Newcastle,0.2464,0.5093,0.2443,1,4,A,1
+11/6/22,Tottenham Hotspur,Liverpool,0.3319,0.4487,0.2195,1,2,A,1.0001
+11/6/22,West Ham United,Crystal Palace,0.5112,0.2205,0.2683,1,2,A,1
+11/12/22,AFC Bournemouth,Everton,0.3551,0.3715,0.2734,3,0,H,1
+11/12/22,Liverpool,Southampton,0.7748,0.0827,0.1426,3,1,H,1.0001
+11/12/22,Manchester City,Brentford,0.8472,0.0455,0.1074,1,2,A,1.0001
+11/12/22,Newcastle,Chelsea,0.4123,0.3339,0.2538,1,0,H,1
+11/12/22,Nottingham Forest,Crystal Palace,0.3108,0.4175,0.2717,1,0,H,1
+11/12/22,Tottenham Hotspur,Leeds United,0.6551,0.1557,0.1892,4,3,H,1
+11/12/22,West Ham United,Leicester City,0.4753,0.2665,0.2582,0,2,A,1
+11/12/22,Wolverhampton,Arsenal,0.1739,0.5939,0.2322,0,2,A,1
+11/13/22,Brighton and Hove Albion,Aston Villa,0.5681,0.1975,0.2344,1,2,A,1
+11/13/22,Fulham,Manchester United,0.2212,0.5622,0.2166,1,2,A,1

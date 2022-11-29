@@ -1,0 +1,381 @@
+﻿Date,home,away,FTR,AvgH,AvgD,AvgA,home,
+8/5/22,Crystal Palace,Arsenal,A,4.39,3.59,1.88,Crystal Palace,#NAME?
+8/6/22,AFC Bournemouth,Aston Villa,H,3.8,3.5,2.04,AFC Bournemouth,FALSE
+8/6/22,Everton,Chelsea,A,5.74,3.96,1.63,Everton,FALSE
+8/6/22,Fulham,Liverpool,D,10.99,6.05,1.28,Fulham,FALSE
+8/6/22,Leeds,Wolves,H,2.34,3.34,3.18,Leeds United,TRUE
+8/6/22,Newcastle,Nott'm Forest,H,1.67,3.8,5.57,Newcastle,FALSE
+8/6/22,Tottenham Hotspur,Southampton,H,1.36,5.27,8.64,Tottenham Hotspur,FALSE
+8/7/22,Leicester,Brentford,D,2.03,3.66,3.64,Leicester City,TRUE
+8/7/22,Manchester United,Brighton,A,1.62,4.01,5.68,Manchester United,FALSE
+8/7/22,West Ham,Manchester City,A,8.32,5.25,1.37,West Ham United,TRUE
+8/13/22,Arsenal,Leicester,H,1.55,4.37,6.04,Arsenal,FALSE
+8/13/22,Aston Villa,Everton,H,1.82,3.56,4.87,Aston Villa,FALSE
+8/13/22,Brentford,Manchester United,H,3.77,3.56,2.02,Brentford,FALSE
+8/13/22,Brighton,Newcastle,D,2.44,3.25,3.1,Brighton and Hove Albion,TRUE
+8/13/22,Manchester City,AFC Bournemouth,H,1.07,12.72,37.57,Manchester City,FALSE
+8/13/22,Southampton,Leeds,D,2.32,3.51,3.1,Southampton,FALSE
+8/13/22,Wolves,Fulham,D,2.4,3.28,3.15,Wolverhampton,FALSE
+8/14/22,Chelsea,Tottenham Hotspur,D,2.29,3.44,3.21,Chelsea,FALSE
+8/14/22,Nott'm Forest,West Ham,H,4.21,3.64,1.9,Nottingham Forest,TRUE
+8/15/22,Liverpool,Crystal Palace,D,1.2,6.85,16.33,Liverpool,FALSE
+8/20/22,AFC Bournemouth,Arsenal,A,7.65,4.7,1.43,AFC Bournemouth,FALSE
+8/20/22,Crystal Palace,Aston Villa,H,2.52,3.2,3,Crystal Palace,FALSE
+8/20/22,Everton,Nott'm Forest,D,1.97,3.48,4.05,Everton,FALSE
+8/20/22,Fulham,Brentford,H,2.46,3.42,2.92,Fulham,FALSE
+8/20/22,Leicester,Southampton,A,1.85,3.97,4.01,Leicester City,TRUE
+8/20/22,Tottenham Hotspur,Wolves,H,1.41,4.88,7.96,Tottenham Hotspur,FALSE
+8/21/22,Leeds,Chelsea,H,5.93,4.43,1.55,Leeds United,TRUE
+8/21/22,Newcastle,Manchester City,D,8.67,5.11,1.37,Newcastle,FALSE
+8/21/22,West Ham,Brighton,A,2.32,3.41,3.14,West Ham United,TRUE
+8/22/22,Manchester United,Liverpool,H,5.22,4.38,1.6,Manchester United,FALSE
+8/27/22,Arsenal,Fulham,H,1.32,5.77,9.44,Arsenal,FALSE
+8/27/22,Brentford,Everton,D,2.06,3.47,3.77,Brentford,FALSE
+8/27/22,Brighton,Leeds,H,1.91,3.73,4.04,Brighton and Hove Albion,TRUE
+8/27/22,Chelsea,Leicester,H,1.42,4.93,7.52,Chelsea,FALSE
+8/27/22,Liverpool,AFC Bournemouth,H,1.11,10.17,25.51,Liverpool,FALSE
+8/27/22,Manchester City,Crystal Palace,H,1.19,7.56,15.25,Manchester City,FALSE
+8/27/22,Southampton,Manchester United,A,4.27,4.06,1.8,Southampton,FALSE
+8/28/22,Aston Villa,West Ham,A,2.3,3.43,3.18,Aston Villa,FALSE
+8/28/22,Nott'm Forest,Tottenham Hotspur,A,6.98,4.59,1.47,Nottingham Forest,TRUE
+8/28/22,Wolves,Newcastle,D,2.75,3.26,2.7,Wolverhampton,FALSE
+8/30/22,Crystal Palace,Brentford,D,2.1,3.42,3.72,Crystal Palace,FALSE
+8/30/22,Fulham,Brighton,H,3.21,3.35,2.33,Fulham,FALSE
+8/30/22,Leeds,Everton,D,2.14,3.57,3.46,Leeds United,TRUE
+8/30/22,Southampton,Chelsea,H,5.22,4.16,1.65,Southampton,FALSE
+8/31/22,AFC Bournemouth,Wolves,D,3.53,3.38,2.16,Arsenal,TRUE
+8/31/22,Arsenal,Aston Villa,H,1.47,4.63,7,AFC Bournemouth,FALSE
+8/31/22,Liverpool,Newcastle,H,1.31,5.81,9.58,Liverpool,FALSE
+8/31/22,Manchester City,Nott'm Forest,H,1.08,12.84,30.99,Manchester City,FALSE
+8/31/22,West Ham,Tottenham Hotspur,D,3.63,3.74,2.01,West Ham United,TRUE
+9/1/22,Leicester,Manchester United,A,3.41,3.81,2.07,Leicester City,TRUE
+9/3/22,Aston Villa,Manchester City,D,8.75,5.63,1.34,Aston Villa,FALSE
+9/3/22,Brentford,Leeds,H,2.17,3.59,3.33,Brentford,FALSE
+9/3/22,Chelsea,West Ham,H,1.55,4.38,6.03,Chelsea,FALSE
+9/3/22,Everton,Liverpool,D,7.77,5.06,1.4,Everton,FALSE
+9/3/22,Newcastle,Crystal Palace,D,2.05,3.48,3.8,Newcastle,FALSE
+9/3/22,Nott'm Forest,AFC Bournemouth,A,2.02,3.47,3.89,Nottingham Forest,TRUE
+9/3/22,Tottenham Hotspur,Fulham,H,1.49,4.62,6.54,Tottenham Hotspur,FALSE
+9/3/22,Wolves,Southampton,H,2.24,3.4,3.33,Wolverhampton,FALSE
+9/4/22,Brighton,Leicester,H,1.87,3.6,4.43,Brighton and Hove Albion,TRUE
+9/4/22,Manchester United,Arsenal,H,2.61,3.55,2.67,Manchester United,FALSE
+9/16/22,Aston Villa,Southampton,H,2.1,3.55,3.53,AFC Bournemouth,FALSE
+9/16/22,Nott'm Forest,Fulham,A,2.81,3.4,2.57,Fulham,FALSE
+9/17/22,Newcastle,AFC Bournemouth,D,1.47,4.47,7.39,Leicester City,FALSE
+9/17/22,Tottenham Hotspur,Leicester,H,1.49,4.59,6.7,Liverpool,FALSE
+9/17/22,Wolves,Manchester City,A,9.25,5.47,1.34,Manchester City,FALSE
+9/18/22,Brentford,Arsenal,A,4.3,3.91,1.81,Southampton,TRUE
+9/18/22,Everton,West Ham,H,2.95,3.31,2.5,Arsenal,FALSE
+10/1/22,AFC Bournemouth,Brentford,D,3.36,3.44,2.21,West Ham United,TRUE
+10/1/22,Arsenal,Tottenham Hotspur,H,2.08,3.7,3.48,Crystal Palace,TRUE
+10/1/22,Crystal Palace,Chelsea,A,4.29,3.57,1.9,Leeds United,TRUE
+10/1/22,Fulham,Newcastle,A,3.04,3.46,2.37,Aston Villa,FALSE
+10/1/22,Liverpool,Brighton,D,1.37,5.33,8.25,Nottingham Forest,TRUE
+10/1/22,Southampton,Everton,A,2.19,3.41,3.44,Brighton and Hove Albion,FALSE
+10/1/22,West Ham,Wolves,H,1.96,3.48,4.12,Newcastle,FALSE
+10/2/22,Leeds,Aston Villa,D,2.36,3.46,3.03,Tottenham Hotspur,TRUE
+10/2/22,Manchester City,Manchester United,H,1.35,5.7,8,Wolverhampton,TRUE
+10/3/22,Leicester,Nott'm Forest,H,1.76,4.05,4.41,Brentford,FALSE
+10/8/22,AFC Bournemouth,Leicester,H,3.53,3.63,2.09,Chelsea,TRUE
+10/8/22,Brighton,Tottenham Hotspur,A,2.76,3.47,2.58,Everton,TRUE
+10/8/22,Chelsea,Wolves,H,1.4,4.82,8.5,Manchester United,TRUE
+10/8/22,Manchester City,Southampton,H,1.12,10.3,21.15,AFC Bournemouth,FALSE
+10/8/22,Newcastle,Brentford,H,1.8,3.92,4.38,Arsenal,FALSE
+10/9/22,Arsenal,Liverpool,H,2.58,3.72,2.62,Crystal Palace,TRUE
+10/9/22,Crystal Palace,Leeds,H,2.07,3.62,3.57,Fulham,TRUE
+10/9/22,Everton,Manchester United,A,3.56,3.58,2.09,Liverpool,TRUE
+10/9/22,West Ham,Fulham,H,1.78,3.9,4.56,Southampton,FALSE
+10/10/22,Nott'm Forest,Aston Villa,D,3.35,3.49,2.19,West Ham United,TRUE
+10/14/22,Brentford,Brighton,H,3.21,3.44,2.3,Leeds United,TRUE
+10/15/22,Fulham,AFC Bournemouth,D,1.89,3.72,4.13,Manchester City,TRUE
+10/15/22,Leicester,Crystal Palace,D,2.31,3.49,3.12,Leicester City,TRUE
+10/15/22,Tottenham Hotspur,Everton,H,1.49,4.56,6.81,AFC Bournemouth,FALSE
+10/15/22,Wolves,Nott'm Forest,H,1.72,3.81,5.13,Brighton and Hove Albion,FALSE
+10/16/22,Aston Villa,Chelsea,A,4.54,3.69,1.82,Chelsea,TRUE
+10/16/22,Leeds,Arsenal,A,5.83,4.41,1.56,Manchester City,TRUE
+10/16/22,Liverpool,Manchester City,H,3.74,4.06,1.91,Newcastle,TRUE
+10/16/22,Manchester United,Newcastle,D,2,3.78,3.65,Arsenal,FALSE
+10/16/22,Southampton,West Ham,D,2.96,3.42,2.44,Crystal Palace,FALSE
+10/18/22,Brighton,Nott'm Forest,D,1.4,4.91,8.19,Everton,TRUE
+10/18/22,Crystal Palace,Wolves,H,2.29,3.19,3.46,West Ham United,TRUE
+10/19/22,AFC Bournemouth,Southampton,A,2.72,3.33,2.69,Nottingham Forest,TRUE
+10/19/22,Brentford,Chelsea,D,4.79,3.92,1.74,Brentford,FALSE
+10/19/22,Liverpool,West Ham,H,1.44,5.01,6.96,Fulham,FALSE
+10/19/22,Manchester United,Tottenham Hotspur,H,2.45,3.57,2.86,Leicester City,FALSE
+10/19/22,Newcastle,Everton,H,1.64,4.05,5.46,Tottenham Hotspur,TRUE
+10/20/22,Fulham,Aston Villa,H,2.88,3.42,2.51,Wolverhampton,TRUE
+10/20/22,Leicester,Leeds,H,2.32,3.58,3.03,Aston Villa,FALSE
+10/22/22,Chelsea,Manchester United,D,2.14,3.51,3.5,Leeds United,TRUE
+10/22/22,Everton,Crystal Palace,H,2.58,3.18,2.96,Liverpool,TRUE
+10/22/22,Manchester City,Brighton,H,1.21,6.94,14.36,Manchester United,TRUE
+10/22/22,Nott'm Forest,Liverpool,H,11.31,6.19,1.26,Southampton,TRUE
+10/23/22,Aston Villa,Brentford,H,2.14,3.5,3.49,Brighton and Hove Albion,TRUE
+10/23/22,Leeds,Fulham,A,2.06,3.62,3.59,Crystal Palace,FALSE
+10/23/22,Southampton,Arsenal,D,5.78,4.27,1.58,AFC Bournemouth,FALSE
+10/23/22,Tottenham Hotspur,Newcastle,A,2.09,3.58,3.53,Arsenal,FALSE
+10/23/22,Wolves,Leicester,A,2.3,3.38,3.24,Brentford,FALSE
+10/24/22,West Ham,AFC Bournemouth,H,1.55,4.16,6.2,Liverpool,FALSE
+10/29/22,AFC Bournemouth,Tottenham Hotspur,A,5.1,3.91,1.69,Manchester United,TRUE
+10/29/22,Brentford,Wolves,D,2.2,3.46,3.33,Newcastle,TRUE
+10/29/22,Brighton,Chelsea,H,3.03,3.34,2.41,Fulham,TRUE
+10/29/22,Crystal Palace,Southampton,H,1.95,3.57,4.03,Leicester City,TRUE
+10/29/22,Fulham,Everton,D,2.36,3.43,3.07,Chelsea,FALSE
+10/29/22,Leicester,Manchester City,A,9.66,6.09,1.29,Everton,FALSE
+10/29/22,Liverpool,Leeds,A,1.3,6.07,9.16,Manchester City,TRUE
+10/29/22,Newcastle,Aston Villa,H,1.83,3.73,4.41,Nottingham Forest,TRUE
+10/30/22,Arsenal,Nott'm Forest,H,1.2,6.96,14.82,Aston Villa,TRUE
+10/30/22,Manchester United,West Ham,H,1.7,4.02,4.85,Leeds United,FALSE
+11/5/22,Everton,Leicester,A,2.43,3.33,3.03,Southampton,TRUE
+11/5/22,Leeds,AFC Bournemouth,H,1.74,3.93,4.73,Tottenham Hotspur,TRUE
+11/5/22,Manchester City,Fulham,H,1.13,9.74,19.8,Wolverhampton,TRUE
+11/5/22,Nott'm Forest,Brentford,D,2.78,3.39,2.59,West Ham United,TRUE
+11/5/22,Wolves,Brighton,A,3.39,3.33,2.24,AFC Bournemouth,FALSE
+11/6/22,Aston Villa,Manchester United,H,3.39,3.54,2.15,Brentford,TRUE
+11/6/22,Chelsea,Arsenal,A,2.64,3.42,2.7,Brighton and Hove Albion,FALSE
+11/6/22,Southampton,Newcastle,A,4.02,3.66,1.92,Crystal Palace,FALSE
+11/6/22,Tottenham Hotspur,Liverpool,A,3.28,3.67,2.16,Fulham,FALSE
+11/6/22,West Ham,Crystal Palace,A,1.94,3.49,4.18,Leicester City,FALSE
+11/12/22,AFC Bournemouth,Everton,H,2.86,3.25,2.6,Liverpool,TRUE
+11/12/22,Liverpool,Southampton,H,1.25,6.52,11.38,Newcastle,TRUE
+11/12/22,Manchester City,Brentford,A,1.14,8.92,19.14,Arsenal,FALSE
+11/12/22,Newcastle,Chelsea,H,2.33,3.44,3.11,Manchester United,FALSE
+11/12/22,Nott'm Forest,Crystal Palace,H,3.12,3.24,2.43,Everton,FALSE
+11/12/22,Tottenham Hotspur,Leeds,H,1.64,4.26,5.04,Leeds United,FALSE
+11/12/22,West Ham,Leicester,A,2.09,3.51,3.6,Manchester City,FALSE
+11/12/22,Wolves,Arsenal,A,6.15,4.26,1.55,Nottingham Forest,FALSE
+11/13/22,Brighton,Aston Villa,A,1.86,3.71,4.21,Wolverhampton,TRUE
+11/13/22,Fulham,Manchester United,A,3.91,3.88,1.89,Aston Villa,FALSE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Southampton,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,West Ham United,TRUE
+,,,,,,,AFC Bournemouth,TRUE
+,,,,,,,Liverpool,TRUE
+,,,,,,,Manchester City,TRUE
+,,,,,,,Newcastle,TRUE
+,,,,,,,Nottingham Forest,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,West Ham United,TRUE
+,,,,,,,Wolverhampton,TRUE
+,,,,,,,Brighton and Hove Albion,TRUE
+,,,,,,,Fulham,TRUE
+,,,,,,,Arsenal,TRUE
+,,,,,,,Aston Villa,TRUE
+,,,,,,,Brentford,TRUE
+,,,,,,,Crystal Palace,TRUE
+,,,,,,,Everton,TRUE
+,,,,,,,Leicester City,TRUE
+,,,,,,,Southampton,TRUE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Manchester United,TRUE
+,,,,,,,Leeds United,TRUE
+,,,,,,,Liverpool,TRUE
+,,,,,,,West Ham United,TRUE
+,,,,,,,AFC Bournemouth,TRUE
+,,,,,,,Brighton and Hove Albion,TRUE
+,,,,,,,Fulham,TRUE
+,,,,,,,Manchester City,TRUE
+,,,,,,,Newcastle,TRUE
+,,,,,,,Wolverhampton,TRUE
+,,,,,,,Nottingham Forest,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,Brentford,TRUE
+,,,,,,,Arsenal,TRUE
+,,,,,,,Everton,TRUE
+,,,,,,,Leicester City,TRUE
+,,,,,,,Manchester United,TRUE
+,,,,,,,Aston Villa,TRUE
+,,,,,,,Crystal Palace,TRUE
+,,,,,,,Leeds United,TRUE
+,,,,,,,Southampton,TRUE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Aston Villa,TRUE
+,,,,,,,Brentford,TRUE
+,,,,,,,Brighton and Hove Albion,TRUE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Everton,TRUE
+,,,,,,,Manchester United,TRUE
+,,,,,,,Nottingham Forest,TRUE
+,,,,,,,Wolverhampton,TRUE
+,,,,,,,Newcastle,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,AFC Bournemouth,TRUE
+,,,,,,,Crystal Palace,TRUE
+,,,,,,,Leicester City,TRUE
+,,,,,,,Liverpool,TRUE
+,,,,,,,Manchester City,TRUE
+,,,,,,,Southampton,TRUE
+,,,,,,,West Ham United,TRUE
+,,,,,,,Arsenal,TRUE
+,,,,,,,Leeds United,TRUE
+,,,,,,,Fulham,TRUE
+,,,,,,,Aston Villa,TRUE
+,,,,,,,Brentford,TRUE
+,,,,,,,Brighton and Hove Albion,TRUE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Everton,TRUE
+,,,,,,,Manchester United,TRUE
+,,,,,,,Newcastle,TRUE
+,,,,,,,Nottingham Forest,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,Wolverhampton,TRUE
+,,,,,,,AFC Bournemouth,TRUE
+,,,,,,,Arsenal,TRUE
+,,,,,,,Crystal Palace,TRUE
+,,,,,,,Fulham,TRUE
+,,,,,,,Leeds United,TRUE
+,,,,,,,Leicester City,TRUE
+,,,,,,,Liverpool,TRUE
+,,,,,,,Manchester City,TRUE
+,,,,,,,Southampton,TRUE
+,,,,,,,West Ham United,TRUE
+,,,,,,,Aston Villa,TRUE
+,,,,,,,Brentford,TRUE
+,,,,,,,Brighton and Hove Albion,TRUE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Everton,TRUE
+,,,,,,,Manchester United,TRUE
+,,,,,,,Newcastle,TRUE
+,,,,,,,Nottingham Forest,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,Wolverhampton,TRUE
+,,,,,,,AFC Bournemouth,TRUE
+,,,,,,,Crystal Palace,TRUE
+,,,,,,,Everton,TRUE
+,,,,,,,Fulham,TRUE
+,,,,,,,Leeds United,TRUE
+,,,,,,,Leicester City,TRUE
+,,,,,,,Manchester United,TRUE
+,,,,,,,Newcastle,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,West Ham United,TRUE
+,,,,,,,Arsenal,TRUE
+,,,,,,,Aston Villa,TRUE
+,,,,,,,Brentford,TRUE
+,,,,,,,Brighton and Hove Albion,TRUE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Liverpool,TRUE
+,,,,,,,Manchester City,TRUE
+,,,,,,,Nottingham Forest,TRUE
+,,,,,,,Southampton,TRUE
+,,,,,,,Wolverhampton,TRUE
+,,,,,,,AFC Bournemouth,TRUE
+,,,,,,,Crystal Palace,TRUE
+,,,,,,,Everton,TRUE
+,,,,,,,Fulham,TRUE
+,,,,,,,Leeds United,TRUE
+,,,,,,,Leicester City,TRUE
+,,,,,,,Manchester United,TRUE
+,,,,,,,Newcastle,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,West Ham United,TRUE
+,,,,,,,Arsenal,TRUE
+,,,,,,,Aston Villa,TRUE
+,,,,,,,Brentford,TRUE
+,,,,,,,Brighton and Hove Albion,TRUE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Liverpool,TRUE
+,,,,,,,Manchester City,TRUE
+,,,,,,,Nottingham Forest,TRUE
+,,,,,,,Southampton,TRUE
+,,,,,,,Wolverhampton,TRUE
+,,,,,,,AFC Bournemouth,TRUE
+,,,,,,,Arsenal,TRUE
+,,,,,,,Brighton and Hove Albion,TRUE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Crystal Palace,TRUE
+,,,,,,,Everton,TRUE
+,,,,,,,Manchester City,TRUE
+,,,,,,,Newcastle,TRUE
+,,,,,,,Nottingham Forest,TRUE
+,,,,,,,West Ham United,TRUE
+,,,,,,,Aston Villa,TRUE
+,,,,,,,Brentford,TRUE
+,,,,,,,Fulham,TRUE
+,,,,,,,Leeds United,TRUE
+,,,,,,,Leicester City,TRUE
+,,,,,,,Liverpool,TRUE
+,,,,,,,Manchester United,TRUE
+,,,,,,,Southampton,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,Wolverhampton,TRUE
+,,,,,,,Aston Villa,TRUE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Everton,TRUE
+,,,,,,,Leeds United,TRUE
+,,,,,,,Manchester City,TRUE
+,,,,,,,Nottingham Forest,TRUE
+,,,,,,,Southampton,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,West Ham United,TRUE
+,,,,,,,Wolverhampton,TRUE
+,,,,,,,AFC Bournemouth,TRUE
+,,,,,,,Arsenal,TRUE
+,,,,,,,Brentford,TRUE
+,,,,,,,Brighton and Hove Albion,TRUE
+,,,,,,,Crystal Palace,TRUE
+,,,,,,,Fulham,TRUE
+,,,,,,,Leicester City,TRUE
+,,,,,,,Liverpool,TRUE
+,,,,,,,Manchester United,TRUE
+,,,,,,,Newcastle,TRUE
+,,,,,,,Aston Villa,TRUE
+,,,,,,,Everton,TRUE
+,,,,,,,Leeds United,TRUE
+,,,,,,,Nottingham Forest,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,West Ham United,TRUE
+,,,,,,,Wolverhampton,TRUE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Manchester City,TRUE
+,,,,,,,Southampton,TRUE
+,,,,,,,AFC Bournemouth,TRUE
+,,,,,,,Arsenal,TRUE
+,,,,,,,Brentford,TRUE
+,,,,,,,Brighton and Hove Albion,TRUE
+,,,,,,,Crystal Palace,TRUE
+,,,,,,,Fulham,TRUE
+,,,,,,,Leicester City,TRUE
+,,,,,,,Liverpool,TRUE
+,,,,,,,Manchester United,TRUE
+,,,,,,,Newcastle,TRUE
+,,,,,,,AFC Bournemouth,TRUE
+,,,,,,,Brighton and Hove Albion,TRUE
+,,,,,,,Fulham,TRUE
+,,,,,,,Liverpool,TRUE
+,,,,,,,Manchester City,TRUE
+,,,,,,,Newcastle,TRUE
+,,,,,,,Nottingham Forest,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,West Ham United,TRUE
+,,,,,,,Wolverhampton,TRUE
+,,,,,,,Arsenal,TRUE
+,,,,,,,Aston Villa,TRUE
+,,,,,,,Brentford,TRUE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Crystal Palace,TRUE
+,,,,,,,Everton,TRUE
+,,,,,,,Leeds United,TRUE
+,,,,,,,Leicester City,TRUE
+,,,,,,,Manchester United,TRUE
+,,,,,,,Southampton,TRUE
+,,,,,,,AFC Bournemouth,TRUE
+,,,,,,,Brighton and Hove Albion,TRUE
+,,,,,,,Fulham,TRUE
+,,,,,,,Liverpool,TRUE
+,,,,,,,Manchester City,TRUE
+,,,,,,,Newcastle,TRUE
+,,,,,,,Nottingham Forest,TRUE
+,,,,,,,Tottenham Hotspur,TRUE
+,,,,,,,West Ham United,TRUE
+,,,,,,,Wolverhampton,TRUE
+,,,,,,,Arsenal,TRUE
+,,,,,,,Aston Villa,TRUE
+,,,,,,,Brentford,TRUE
+,,,,,,,Chelsea,TRUE
+,,,,,,,Crystal Palace,TRUE
+,,,,,,,Everton,TRUE
+,,,,,,,Leeds United,TRUE
+,,,,,,,Leicester City,TRUE
+,,,,,,,Manchester United,TRUE
+,,,,,,,Southampton,TRUE
